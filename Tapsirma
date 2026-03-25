@@ -1,0 +1,12 @@
+<! DOCTYBE html>
+
+<html>
+    <head></head>
+    <body>
+        <h1>Hello</h1>
+        <a href="#">YouTube</a>
+        <p>Salem</p>
+        <button>Sebet</button>
+        <span>30$</span>
+    </body>
+</html>
